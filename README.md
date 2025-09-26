@@ -36,4 +36,4 @@ App will run at:
 Frontend: http://localhost:3000
 Backend API: http://localhost:5000
 
-⚡This Myntra Clone project is built for learning purposes and showcases skills in full-stack development (MERN stack).
+>>>This Myntra Clone project is built for learning purposes and showcases skills in full-stack development (MERN stack).
